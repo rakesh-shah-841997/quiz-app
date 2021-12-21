@@ -1,0 +1,26 @@
+{
+    "question1": "Do you prefer sushi or pizza?",
+    "options1": [
+        "Sushi",
+        "Pizza"
+    ],
+    "question2": "What is the most amount of pizza slices you’ve eaten in one sitting?",
+    "options2": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+    ],
+    "question3": "Which of the following sushi options would you choose?",
+    "options3": [
+        "California roll",
+        "Dragon roll",
+        "Sashimi"
+    ]
+}
